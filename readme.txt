@@ -1,5 +1,5 @@
 === Disable Right Click & Copy ===
-Contributors: muhammadumer  
+Contributors: muhammadumer1 
 Donate link: https://www.linkedin.com/in/muhammad-umer-abbas/  
 Tags: disable right-click, content protection, copy protection  
 Requires at least: 5.0  
